@@ -508,20 +508,14 @@
 
 ### D ###
 
-# Dispatch https://store.steampowered.com/app/2592160/Dispatch/
-{ "name": "Dispatch.exe", "type": "Game" }
-
-# DREDGE https://store.steampowered.com/app/1562430/DREDGE/
-{ "name": "DREDGE.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/
-{ "name": "DarkSoulsRemastered.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/236430/DARK_SOULS_II/
 { "name": "DarkSoulsII.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/374320/DARK_SOULS_III/
 { "name": "DarkSoulsIII.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/
+{ "name": "DarkSoulsRemastered.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/
 { "name": "DaveTheDiver.exe", "type": "Game" }
@@ -538,23 +532,14 @@
 { "name": "DeadByDaylight.exe", "type": "Game" }
 { "name": "DeadByDaylight-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/239140/Dying_Light/
-{ "name": "DyingLightGame.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human_Reloaded_Edition/
-{ "name": "DyingLightGame_x64_rwdi.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/
-{ "name": "DyingLightGame_TheBeast_x64_rwdi.exe", "type": "Game" }
+#https://store.epicgames.com/en-US/p/dead-island-2
+{ "name": "DeadIsland-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeadIsland.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1422450/Deadlock
 { "name": "deadlock.exe", "type": "Game" }
 { "name": "MainThrd", "type": "Game" }
 { "name": "project8.exe", "type": "Game" }
-
-#https://store.epicgames.com/en-US/p/dead-island-2
-{ "name": "DeadIsland-Win64-Shipping.exe", "type": "Game" }
-{ "name": "DeadIsland.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2599300/Dead_Signal/
 { "name": "DeadSignal.exe", "type": "Game" }
@@ -583,27 +568,25 @@
 { "name": "FSD.exe", "type": "Game" }
 { "name": "FSD-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/deliver-us-mars
+{ "name": "DeliverUsMars-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeliverUsMars.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1929610/Demonologist/
 { "name": "Demonologist.exe", "type": "Game" }
 { "name": "Shivers-Win64-Shipping.exe", "type": "Game" }
 
-# Detroit Become Human via Proton https://store.steampowered.com/app/1222140/Detroit_Become_Human/
-{ "name": "DetroitBecomeHu", "type": "Game" }
-
 # Derail Valley https://store.steampowered.com/app/588030/Derail_Valley/
 { "name": "DerailValley.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/6910/Deus_Ex_Game_of_the_Year_Edition/
-{ "name": "DeusEx.exe", "type": "Game" }
+# Detroit Become Human via Proton https://store.steampowered.com/app/1222140/Detroit_Become_Human/
+{ "name": "DetroitBecomeHu", "type": "Game" }
 
-# https://www.kentie.net/article/dxguide/
+# Deus Ex https://www.kentie.net/article/dxguide/
 { "name": "deusex.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/397550/Deus_Ex_Revision/
-{ "name": "Revision.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/337000/Deus_Ex_Mankind_Divided/
-{ "name": "DXMD.exe", "type": "Game" }
+# https://store.steampowered.com/app/6910/Deus_Ex_Game_of_the_Year_Edition/
+{ "name": "DeusEx.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/238010/Deus_Ex_Human_Revolution__Directors_Cut/
 { "name": "DXHRDC.exe", "type": "Game" }
@@ -612,14 +595,23 @@
 { "name": "dx2.exe", "type": "Game" }
 { "name": "DX2Main.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/337000/Deus_Ex_Mankind_Divided/
+{ "name": "DXMD.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/397550/Deus_Ex_Revision/
+{ "name": "Revision.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/601150/Devil_May_Cry_5/
 { "name": "DevilMayCry5.exe", "type": "Game" }
 
-# Rules for Diablo III
+# Diablo III https://diablo3.blizzard.com/en-us/
 { "name": "Diablo III64.exe", "type": "Game" }
 
-# Rules for Diablo IV
+# Diablo IV https://diablo4.blizzard.com/en-us/
 { "name": "Diablo IV.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/690790/DiRT_Rally_20/
+{ "name": "dirtrally2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/
 { "name": "disco.exe", "type": "Game" }
@@ -645,12 +637,21 @@
 # https://store.steampowered.com/app/614570/Dishonored_Death_of_the_Outsider/
 { "name": "Dishonored_DO.exe", "type": "Game" }
 
+# Dispatch https://store.steampowered.com/app/2592160/Dispatch/
+{ "name": "Dispatch.exe", "type": "Game" }
+
 # Divinity: Original Sin https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
 # Divinity: Original Sin 2 https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/
 { "name": "EoCApp.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1388880/Doki_Doki_Literature_Club_Plus/
+{ "name": "Doki Doki Literature Club Plus.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/379720/DOOM/
 { "name": "DOOMx64vk.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1148590/DOOM_64/
+{ "name": "DOOM64_x64.exe", "type": "Game" }
 
 # DOOM Eternal https://store.steampowered.com/app/782330/DOOM_Eternal/
 { "name": "DOOMx64.exe", "type": "Game" }
@@ -659,23 +660,24 @@
 # https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/
 { "name": "DOOMTheDarkAges.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1148590/DOOM_64/
-{ "name": "DOOM64_x64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/
-{ "name": "DAOrigins.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1238040/Dragon_Age_II_Ultimate_Edition/
 { "name": "DragonAge2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1222690/Dragon_Age_Inquisition/
 { "name": "DragonAgeInquisition.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/
-{ "name": "DDDA.exe", "type": "Game" }
+# https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/
+{ "name": "DAOrigins.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2054970/Dragons_Dogma_2/
 { "name": "DD2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/
+{ "name": "DDDA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/
+{ "name": "SparkingZERO.exe", "type": "Game" }
+{ "name": "SparkingZERO-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
 { "name": "DBXV2.exe", "type": "Game" }
@@ -685,12 +687,14 @@
 { "name": "AT-Win64-Shipping.exe", "type": "Game" }
 { "name": "AT.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/
-{ "name": "SparkingZERO.exe", "type": "Game" }
-{ "name": "SparkingZERO-Win64-Shipping.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition/
 { "name": "DRAGON QUEST XI S.exe", "type": "Game" }
+
+# DREDGE https://store.steampowered.com/app/1562430/DREDGE/
+{ "name": "DREDGE.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/753650/Due_Process/
+{ "name": "DueProcess.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/434050/Duke_Nukem_3D_20th_Anniversary_World_Tour/
 { "name": "duke3d.exe", "type": "Game" }
@@ -710,18 +714,14 @@
 # https://store.steampowered.com/app/922400/DXBall_2_20th_Anniversary_Edition/
 { "name": "DXBall2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1388880/Doki_Doki_Literature_Club_Plus/
-{ "name": "Doki Doki Literature Club Plus.exe", "type": "Game" }
+# https://store.steampowered.com/app/239140/Dying_Light/
+{ "name": "DyingLightGame.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/690790/DiRT_Rally_20/
-{ "name": "dirtrally2.exe", "type": "Game" }
+# https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human_Reloaded_Edition/
+{ "name": "DyingLightGame_x64_rwdi.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/753650/Due_Process/
-{ "name": "DueProcess.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/deliver-us-mars
-{ "name": "DeliverUsMars-Win64-Shipping.exe", "type": "Game" }
-{ "name": "DeliverUsMars.exe", "type": "Game" }
+# https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/
+{ "name": "DyingLightGame_TheBeast_x64_rwdi.exe", "type": "Game" }
 
 ### E ###
 
