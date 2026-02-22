@@ -508,12 +508,10 @@
 
 ### D ###
 
-# Dispatch
-# https://store.steampowered.com/app/2592160
+# Dispatch https://store.steampowered.com/app/2592160/Dispatch/
 { "name": "Dispatch.exe", "type": "Game" }
 
-# DREDGE
-# https://store.steampowered.com/app/1562430
+# DREDGE https://store.steampowered.com/app/1562430/DREDGE/
 { "name": "DREDGE.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/
@@ -552,6 +550,7 @@
 # https://store.steampowered.com/app/1422450/Deadlock
 { "name": "deadlock.exe", "type": "Game" }
 { "name": "MainThrd", "type": "Game" }
+{ "name": "project8.exe", "type": "Game" }
 
 #https://store.epicgames.com/en-US/p/dead-island-2
 { "name": "DeadIsland-Win64-Shipping.exe", "type": "Game" }
@@ -560,9 +559,6 @@
 # https://store.steampowered.com/app/2599300/Dead_Signal/
 { "name": "DeadSignal.exe", "type": "Game" }
 { "name": "DeadSignal-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1422450
-{ "name": "project8.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1693980/Dead_Space/
 # https://store.steampowered.com/app/17470/Dead_Space_2008/
@@ -649,15 +645,14 @@
 # https://store.steampowered.com/app/614570/Dishonored_Death_of_the_Outsider/
 { "name": "Dishonored_DO.exe", "type": "Game" }
 
-# Divinity: Original Sin https://store.steampowered.com/app/373420
-# Divinity: Original Sin 2 https://store.steampowered.com/app/435150
+# Divinity: Original Sin https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
+# Divinity: Original Sin 2 https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/
 { "name": "EoCApp.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/379720/DOOM/
 { "name": "DOOMx64vk.exe", "type": "Game" }
 
-# DOOM Eternal
-# https://store.steampowered.com/app/782330/DOOM_Eternal/
+# DOOM Eternal https://store.steampowered.com/app/782330/DOOM_Eternal/
 { "name": "DOOMx64.exe", "type": "Game" }
 { "name": "DOOMEternalx64vk.exe", "type": "Game" }
 
