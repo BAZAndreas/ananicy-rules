@@ -1057,30 +1057,30 @@
 # https://store.steampowered.com/app/990080/Hogwarts_Legacy/
 { "name": "HogwartsLegacy.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/
-{ "name": "HoloCure.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/367520/Hollow_Knight/
 { "name": "hollow_knight.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
 { "name": "Hollow Knight S", "type": "Game" }
 
-# https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/
-{ "name": "Homeworld.exe", "type": "Game" }
-{ "name": "HomeworldRM.exe", "type": "Game" }
+# https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/
+{ "name": "HoloCure.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1840080/Homeworld_3/
 { "name": "Homeworld3.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/
+{ "name": "Homeworld.exe", "type": "Game" }
+{ "name": "HomeworldRM.exe", "type": "Game" }
+
 # Honkai: Star Rail https://hsr.hoyoverse.com/
 { "name": "StarRail.exe", "type": "Game" }
 
-# Horizon Zero Dawn https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/
-{ "name": "HorizonZeroDawn.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
 { "name": "HorizonForbiddenWest.exe", "type": "Game" }
+
+# Horizon Zero Dawn https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/
+{ "name": "HorizonZeroDawn.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/
 { "name": "h3vr.exe", "type": "Game" }
