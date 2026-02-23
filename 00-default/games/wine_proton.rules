@@ -1508,15 +1508,11 @@
 { "name": "PenDriverPro.exe", "type": "Game" }
 { "name": "PenDriverPro-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/214870/Painkiller_Hell__Damnation/
-{ "name": "PKHDGame-Win32-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1623730/Palworld
-{ "name": "Palworld-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Palworld.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/39530/Painkiller_Black_Edition/
 { "name": "Painkiller.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/214870/Painkiller_Hell__Damnation/
+{ "name": "PKHDGame-Win32-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3270/Painkiller_Overdose/
 { "name": "Overdose.exe", "type": "Game" }
@@ -1530,6 +1526,10 @@
 # https://store.steampowered.com/app/39560/Painkiller_Resurrection/
 { "name": "Resurrection.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1623730/Palworld
+{ "name": "Palworld-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Palworld.exe", "type": "Game" }
+
 # Paradiddle https://store.steampowered.com/app/685240/Paradiddle/
 { "name": "Paradiddle-Win64-Shipping.exe", "type": "Game" }
 
@@ -1537,12 +1537,14 @@
 { "name": "PuzzleGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "PuzzleGame.exe", "type": "Game" }
 
-# PAYDAY 3 https://store.steampowered.com/app/1272080/PAYDAY_3/
-{ "name": "PAYDAY3Client-Win64-Shipping.exe", "type": "Game" }
-{ "name": "PAYDAY3Client.exe", "type": "Game" }
-
 # Party Animals https://store.steampowered.com/app/1260320/Party_Animals/
 { "name": "PartyAnimals.exe", "type": "Game" }
+
+# Pathfinder: Kingmaker https://store.steampowered.com/app/640820/Pathfinder_Kingmaker__Enhanced_Plus_Edition/
+{ "name": "Kingmaker.exe", "type": "Game" }
+
+# Pathfinder: Wrath of the Righteous https://store.steampowered.com/app/1184370/Pathfinder_Wrath_of_the_Righteous__Enhanced_Edition/
+{ "name": "Wrath.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/238960/Path_of_Exile/
 # https://store.steampowered.com/app/2694490/Path_of_Exile_2/
@@ -1551,51 +1553,15 @@
 { "name": "PathOfExile_x64.exe", "type": "Game" }
 { "name": "PathOfExile.exe", "type": "Game" }
 
-# Pathfinder: Kingmaker https://store.steampowered.com/app/640820/Pathfinder_Kingmaker__Enhanced_Plus_Edition/
-{ "name": "Kingmaker.exe", "type": "Game" }
+# https://store.epicgames.com/en-US/p/payday-2-c66369
+{ "name": "payday2_win32_release.exe", "type": "Game" }
 
-# Pathfinder: Wrath of the Righteous https://store.steampowered.com/app/1184370/Pathfinder_Wrath_of_the_Righteous__Enhanced_Edition/
-{ "name": "Wrath.exe", "type": "Game" }
+# PAYDAY 3 https://store.steampowered.com/app/1272080/PAYDAY_3/
+{ "name": "PAYDAY3Client-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PAYDAY3Client.exe", "type": "Game" }
 
 # PEAK https://store.steampowered.com/app/3527290/PEAK/
 { "name": "PEAK.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/494430/Praey_for_the_Gods/
-{ "name": "Praey For the Gods.exe", "type": "Game" }
-
-# Pro Evolution Soccer 2013
-{ "name": "pes2013.exe", "type": "Game" }
-
-# Pro Evolution Soccer 6
-{ "name": "PES6.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/739630/Phasmophobia/
-{ "name": "Phasmophobia.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1056640/Phantasy_Star_Online_2_New_Genesis/
-{ "name": "pso2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1907590/Psycho_Patrol_R/
-{ "name": "psychopatrolr.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/895870/Project_Wingman/
-{ "name": "ProjectWingman.exe", "type": "Game" }
-{ "name": "ProjectWingman-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1894430/Plan_B_Terraform/
-{ "name": "Plan B Terraform.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/31280/Poker_Night_at_the_Inventory/
-{ "name": "CelebrityPoker.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/234710/Poker_Night_2/
-{ "name": "PokerNight2.exe", "type": "Game" }
-
-# Portal 2 https://store.steampowered.com/app/620/Portal_2/
-{ "name": "portal2.exe", "type": "Game" }
-
-# Portal: Revolution https://store.steampowered.com/app/601360/Portal_Revolution/
-{ "name": "revolution.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2161700/Persona_3_Reload/
 { "name": "P3R.exe", "type": "Game" }
@@ -1606,11 +1572,45 @@
 # https://store.steampowered.com/app/1687950/Persona_5_Royal/
 { "name": "P5R.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1056640/Phantasy_Star_Online_2_New_Genesis/
+{ "name": "pso2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/739630/Phasmophobia/
+{ "name": "Phasmophobia.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1894430/Plan_B_Terraform/
+{ "name": "Plan B Terraform.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/234710/Poker_Night_2/
+{ "name": "PokerNight2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/31280/Poker_Night_at_the_Inventory/
+{ "name": "CelebrityPoker.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1241100/POLYGON/
 { "name": "POLYGON-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/payday-2-c66369
-{ "name": "payday2_win32_release.exe", "type": "Game" }
+# Portal 2 https://store.steampowered.com/app/620/Portal_2/
+{ "name": "portal2.exe", "type": "Game" }
+
+# Portal: Revolution https://store.steampowered.com/app/601360/Portal_Revolution/
+{ "name": "revolution.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/494430/Praey_for_the_Gods/
+{ "name": "Praey For the Gods.exe", "type": "Game" }
+
+# Pro Evolution Soccer 6
+{ "name": "PES6.exe", "type": "Game" }
+
+# Pro Evolution Soccer 2013
+{ "name": "pes2013.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/895870/Project_Wingman/
+{ "name": "ProjectWingman.exe", "type": "Game" }
+{ "name": "ProjectWingman-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1907590/Psycho_Patrol_R/
+{ "name": "psychopatrolr.exe", "type": "Game" }
 
 ### Q ###
 
