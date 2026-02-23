@@ -2019,10 +2019,6 @@
 # System Shock 2 https://store.steampowered.com/app/238210/System_Shock_2_1999/
 { "name": "SS2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/750130/The_Sinking_City_Remastered/
-{ "name": "TheSinkingCityRemastered.exe", "type": "Game" }
-{ "name": "TSCGame-Win64-Shipping.exe", "type": "Game" }
-
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
 
@@ -2193,6 +2189,10 @@
 { "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheCallistoProtocol.exe", "type": "Game" }
 { "name": "TheCallistoProt", "type": "Game" }
+
+# https://store.steampowered.com/app/750130/The_Sinking_City_Remastered/
+{ "name": "TheSinkingCityRemastered.exe", "type": "Game" }
+{ "name": "TSCGame-Win64-Shipping.exe", "type": "Game" }
 
 ### T ###
 
