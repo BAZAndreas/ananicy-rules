@@ -1777,16 +1777,15 @@
 
 ### S ###
 
-# Shadow of the Tomb Raider
-# https://store.steampowered.com/app/750920
-{ "name": "SOTTR.exe", "type": "Game" }
+# https://store.epicgames.com/en-US/p/sable
+{ "name": "Seble.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/9480/Saints_Row_2/
+{ "name": "SR2_pc.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/55230/Saints_Row_The_Third/
 { "name": "SaintsRowTheThird.exe", "type": "Game" }
 { "name": "SaintsRowTheThird_DX11.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/9480/Saints_Row_2/
-{ "name": "SR2_pc.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1747050/Sam__Max_Beyond_Time_and_Space/
 { "name": "SamMax200.exe", "type": "Game" }
@@ -1810,16 +1809,49 @@
 { "name": "FactoryGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "FactoryGame.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3800340/ScootX/
+{ "name": "ScootX.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/698670/Scorn/
 { "name": "Scorn.exe", "type": "Game" }
 { "name": "Scorn-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1172620/Sea_of_Thieves_2025_Edition/
+{ "name": "SeaOfThieves.exe", "type": "Game" }
+{ "name": "SoTGame.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/
+{ "name": "sekiro.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/502800/SENRAN_KAGURA_ESTIVAL_VERSUS/
+{ "name": "SKEstivalVersus.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/411830/SENRAN_KAGURA_SHINOVI_VERSUS/
+{ "name": "SKShinoviVersus.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
+{ "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Hellblade2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/861650/Session_Skate_Sim/
+{ "name": "SessionGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "SessionGame.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1227690/Severed_Steel/
+{ "name": "SeveredSteel.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1948450/Sex_Chess/
 { "name": "BattleChess-Win64-Shipping.exe", "type": "Game" }
 { "name": "BattleChess.exe", "type": "Game" }
 
-# Shadows: Awakening https://store.steampowered.com/app/585450
+# Shadow of the Tomb Raider https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
+{ "name": "SOTTR.exe", "type": "Game" }
+
+# Shadows: Awakening https://store.steampowered.com/app/585450/Shadows_Awakening/
 { "name": "shadows.exe", "type": "Game" }
+
+# ShellShock Live https://store.steampowered.com/app/326460/ShellShock_Live/
+{ "name": "ShellShockLive.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/758330/Shenmue_I__II/
 { "name": "Shenmue.exe", "type": "Game" }
@@ -1849,14 +1881,10 @@
 # https://store.steampowered.com/app/1313/SiN_Gold/
 { "name": "sin.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/750130/The_Sinking_City_Remastered/
-{ "name": "TheSinkingCityRemastered.exe", "type": "Game" }
-{ "name": "TSCGame-Win64-Shipping.exe", "type": "Game" }
-
 # Smite https://www.smitegame.com/
 { "name": "CoherentUI_Host.exe", "type": "Game" }
 
-# Sniper Elite 5 https://store.steampowered.com/app/1029690
+# Sniper Elite 5 https://store.steampowered.com/app/1029690/Sniper_Elite_5/
 { "name": "sniper5_dx12.exe", "type": "Game" }
 { "name": "sniper5_vulkan.exe", "type": "Game" }
 
@@ -1869,15 +1897,21 @@
 # https://store.steampowered.com/app/474220/Soldat_2/
 { "name": "soldat2.exe", "type": "Game" }
 
+# Sonic Racing: Crossworlds https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/
+{ "name": "SonicRacingCrossWorldsSteam.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2513280/SONIC_X_SHADOW_GENERATIONS/
 { "name": "SONIC_GENERATIONS.exe", "type": "Game" }
 { "name": "SONIC_X_SHADOW_GENERATIONS.exe", "type": "Game" }
 
-# Sonic Racing: Crossworlds
-{ "name": "SonicRacingCrossWorldsSteam.exe", "type": "Game" }
-
 # Sons Of The Forest https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/
 { "name": "SonsOfTheForest.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1602080/Soulstice/
+{ "name": "Soulstice.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1377580/Soulworker/
+{ "name": "SoulWorker.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/298900/Space_Hulk_Deathwing/
 { "name": "SpaceHulkGame.exe", "type": "Game" }
@@ -1896,12 +1930,12 @@
 { "name": "squad_launcher.exe", "type": "BG_CPUIO" }
 { "name": "SquadGame.exe", "type": "Game" }
 
-# Stalker:SoC https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/
-{ "name": "XR_3DA.exe", "type": "Game" }
+# https://store.steampowered.com/app/1818450/STALCRAFT_X/
+{ "name": "stalcraftw.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
-# https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
-{ "name": "xrEngine.exe", "type": "Game" }
+# https://store.steampowered.com/app/1643320/STALKER_2_Heart_of_Chornobyl/
+{ "name": "Stalker2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Stalker2.exe", "type": "Game" }
 
 # https://www.moddb.com/mods/stalker-anomaly; S.T.A.L.K.E.R. Anomaly
 { "name": "AnomalyDX11AVX.exe", "type": "Game" }
@@ -1915,9 +1949,12 @@
 { "name": "AnomalyDX8.exe", "type": "Game" }
 { "name": "AnomalyLauncher.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1643320/STALKER_2_Heart_of_Chornobyl/
-{ "name": "Stalker2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Stalker2.exe", "type": "Game" }
+# https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
+# https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
+{ "name": "xrEngine.exe", "type": "Game" }
+
+# Stalker:SoC https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/
+{ "name": "XR_3DA.exe", "type": "Game" }
 
 # Star Citizen - https://robertsspaceindustries.com
 { "name": "StarCitizen.exe", "type": "Game" }
@@ -1935,12 +1972,15 @@
 # https://store.steampowered.com/app/2842040/Star_Wars_Outlaws/
 { "name": "Outlaws.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1283400/Steelrising/
+{ "name": "Steelrising.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3489700/Stellar_Blade/
 { "name": "SB.exe", "type": "Game" }
 { "name": "SB-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1283400/Steelrising/
-{ "name": "Steelrising.exe", "type": "Game" }
+# Stella Sora: https://stellasora.global
+{ "name": "StellaSora.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/
 { "name": "stormworks64.exe", "type": "Game" }
@@ -1957,15 +1997,15 @@
 # https://store.steampowered.com/app/1364780/Street_Fighter_6/
 { "name": "StreetFighter6.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3290690/Styx_Blades_of_Greed/
+{ "name": "Styx3.exe", "type": "Game" }
+{ "name": "Styx3-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/242640/Styx_Master_of_Shadows/
 { "name": "StyxGame.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/
 { "name": "Styx2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3290690/Styx_Blades_of_Greed/
-{ "name": "Styx3.exe", "type": "Game" }
-{ "name": "Styx3-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/264710/Subnautica/
 { "name": "Subnautica.exe", "type": "Game" }
@@ -1973,57 +2013,15 @@
 # https://store.steampowered.com/app/848450/Subnautica_Below_Zero/
 { "name": "SubnauticaZero.exe", "type": "Game" }
 
-# System Shock 2 https://store.steampowered.com/app/238210
-{ "name": "SS2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/
-{ "name": "sekiro.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1602080/Soulstice/
-{ "name": "Soulstice.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1377580/Soulworker/
-{ "name": "SoulWorker.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/411830/SENRAN_KAGURA_SHINOVI_VERSUS/
-{ "name": "SKShinoviVersus.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/502800/SENRAN_KAGURA_ESTIVAL_VERSUS/
-{ "name": "SKEstivalVersus.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1172620/Sea_of_Thieves_2025_Edition/
-{ "name": "SeaOfThieves.exe", "type": "Game" }
-{ "name": "SoTGame.exe", "type": "Game" }
-
-# Stella Sora: https://stellasora.global
-{ "name": "StellaSora.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/861650/Session_Skate_Sim/
-{ "name": "SessionGame-Win64-Shipping.exe", "type": "Game" }
-{ "name": "SessionGame.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/617830/SUPERHOT_VR/
 { "name": "SUPERHOTVR.exe", "type": "Game" }
 
-# ShellShock Live (proton) https://store.steampowered.com/app/326460/ShellShock_Live/
-{ "name": "ShellShockLive.exe", "type": "Game" }
+# System Shock 2 https://store.steampowered.com/app/238210/System_Shock_2_1999/
+{ "name": "SS2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3800340/ScootX/
-{ "name": "ScootX.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1818450/STALCRAFT_X/
-{ "name": "stalcraftw.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1227690/Severed_Steel/
-{ "name": "SeveredSteel.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
-{ "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Hellblade2.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/sable
-{ "name": "Seble.exe", "type": "Game" }
-
+# https://store.steampowered.com/app/750130/The_Sinking_City_Remastered/
+{ "name": "TheSinkingCityRemastered.exe", "type": "Game" }
+{ "name": "TSCGame-Win64-Shipping.exe", "type": "Game" }
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
