@@ -1619,17 +1619,21 @@
 
 ### R ###
 
-# Rabbit and Steel https://store.steampowered.com/app/2132850/Rabbit_and_Steel/
-{ "name": "RabbitSteel.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/400910/RabiRibi/
-{ "name": "rabiribi.exe", "type": "Game" }
+# https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
+{ "name": "RRREWebBrowser.exe", "type": "Game" }
+{ "name": "RRRE64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/9200/RAGE/
 { "name": "rage.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/548570/RAGE_2/
 { "name": "RAGE2.exe", "type": "Game" }
+
+# Rabbit and Steel https://store.steampowered.com/app/2132850/Rabbit_and_Steel/
+{ "name": "RabbitSteel.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/400910/RabiRibi/
+{ "name": "rabiribi.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/312520/Rain_World/
 { "name": "RainWorld.exe", "type": "Game" }
@@ -1643,6 +1647,10 @@
 
 # https://store.steampowered.com/app/2129530/REANIMAL/
 { "name": "REANIMAL.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/redacted-d9d21e
+{ "name": "Redacted.exe", "type": "Game" }
+{ "name": "Redacted-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2668510/Red_Dead_Redemption/
 { "name": "PlayRDR.exe", "type": "Game" }
@@ -1669,6 +1677,10 @@
 # https://store.steampowered.com/app/20500/Red_Faction_Guerrilla_Steam_Edition/
 { "name": "RFG.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/redout-2
+{ "name": "redout2.exe", "type": "Game" }
+{ "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1282100/REMNANT_II/
 { "name": "Remnant2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Remnant2.exe", "type": "Game" }
@@ -1692,11 +1704,11 @@
 # https://store.steampowered.com/app/952060/Resident_Evil_3
 { "name": "re3.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/254700/Resident_Evil_4_2005/
-{ "name": "bio4.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2050650/Resident_Evil_4/
 { "name": "re4.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/254700/Resident_Evil_4_2005/
+{ "name": "bio4.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/21690/Resident_Evil_5
 { "name": "re5dx9.exe", "type": "Game" }
@@ -1735,6 +1747,9 @@
 # Rocket League https://www.rocketleague.com/en/
 { "name": "RocketLeague.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/872200/Rogue_Company/
+{ "name": "RogueCompany.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/7020/Rogue_Trooper/
 { "name": "RogueTrooper.exe", "type": "Game" }
 
@@ -1748,32 +1763,17 @@
 { "name": "Routine-Win64-Shipping.exe", "type": "Game" }
 { "name": "Routine.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/928390/RType_Dimensions_EX/
+{ "name": "R-Type_Dimensions.exe", "type": "Game" }
+
 # Ruined King: A League of Legends Story https://store.steampowered.com/app/1276790/Ruined_King_A_League_of_Legends_Story/
 { "name": "RuinedKing.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/210950/Rune_Classic/
 { "name": "Rune.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/928390/RType_Dimensions_EX/
-{ "name": "R-Type_Dimensions.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/302510/Ryse_Son_of_Rome/
 { "name": "Ryse.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
-{ "name": "RRREWebBrowser.exe", "type": "Game" }
-{ "name": "RRRE64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/872200/Rogue_Company/
-{ "name": "RogueCompany.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/redacted-d9d21e
-{ "name": "Redacted.exe", "type": "Game" }
-{ "name": "Redacted-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/redout-2
-{ "name": "redout2.exe", "type": "Game" }
-{ "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
 
 ### S ###
 
