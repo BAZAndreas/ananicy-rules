@@ -2207,9 +2207,6 @@
 # Temtem: Swarm https://store.steampowered.com/app/2510960/Temtem_Swarm/
 { "name": "TemtemSwarm.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
-{ "name": "Card Shop Simulator.exe", "type": "Game" }
-
 # TERA Online MMORPG Game
 { "name": "TERA.exe", "type": "Game" }
 
