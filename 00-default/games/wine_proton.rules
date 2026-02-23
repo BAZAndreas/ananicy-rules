@@ -2097,6 +2097,7 @@
 
 # https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/
 { "name": "KZ.exe", "type": "Game" }
+{ "name": "BBQ-Win64-Shipping.exe", "type": "Game" }
 
 # The Forest https://store.steampowered.com/agecheck/app/242760/The_Forest/
 { "name": "TheForest.exe", "type": "Game" }
