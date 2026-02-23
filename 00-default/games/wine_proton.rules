@@ -2033,16 +2033,11 @@
 { "name": "the_citadel.exe", "type": "Game" }
 { "name": "the_citadel-Win64-Shipping.exe", "type": "Game" }
 
-# The Farmer Was Replaced
-# https://store.steampowered.com/app/2060160
+# The Farmer Was Replaced https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
 { "name": "TheFarmerWasReplaced.exe", "type": "Game" }
 
-# The Spell Brigade
-# https://store.steampowered.com/app/2904000
+# The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
 { "name": "TheSpellBrigade.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
-{ "name": "Card Shop Simulator.exe", "type": "Game" }
 
 # https://www.gog.com/en/game/the_colonists
 { "name": "TheColonists.exe", "type": "Game" }
@@ -2080,8 +2075,7 @@
 { "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
 { "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
 
-# The Forest
-# https://store.steampowered.com/agecheck/app/242760/The_Forest/
+# The Forest https://store.steampowered.com/agecheck/app/242760/The_Forest/
 { "name": "TheForest.exe", "type": "Game" }
 { "name": "TheForest32.exe", "type": "Game" }
 { "name": "TheForestVR.exe", "type": "Game" }
@@ -2141,7 +2135,7 @@
 { "name": "Medium.exe", "type": "Game" }
 { "name": "Medium-Win64-Shipping.exe", "type": "Game" }
 
-# The Outer Worlds https://store.steampowered.com/app/578650
+# The Outer Worlds https://store.steampowered.com/app/578650/The_Outer_Worlds/
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheOuterWorlds.exe", "type": "Game" }
 
@@ -2149,7 +2143,7 @@
 { "name": "TheOuterWorlds2.exe", "type": "Game" }
 { "name": "TheOuterWorlds2-Win64-Shipping.exe", "type": "Game" }
 
-# The Outlast Trials https://store.steampowered.com/app/1304930
+# The Outlast Trials https://store.steampowered.com/app/1304930/The_Outlast_Trials/
 { "name": "TOTClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "TOTClient.exe", "type": "Game" }
 
@@ -2198,6 +2192,9 @@
 
 # https://store.steampowered.com/app/1466060/Tainted_Grail_The_Fall_of_Avalon/
 { "name": "Fall of Avalon.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
+{ "name": "Card Shop Simulator.exe", "type": "Game" }
 
 # Teardown https://store.steampowered.com/app/1167630/Teardown/
 { "name": "teardown.exe", "type": "Game" }
