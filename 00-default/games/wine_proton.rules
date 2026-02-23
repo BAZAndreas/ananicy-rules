@@ -993,12 +993,10 @@
 # https://store.steampowered.com/app/1740720/Have_a_Nice_Death/
 { "name": "HaveaNiceDeath.exe", "type": "Game" }
 
-# Hearthstone
-# https://hearthstone.blizzard.com/en-us
+# Hearthstone https://hearthstone.blizzard.com/en-us
 { "name": "Hearthstone.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
-# Windows version
 { "name": "hoi4.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/
@@ -1075,12 +1073,10 @@
 # https://store.steampowered.com/app/1840080/Homeworld_3/
 { "name": "Homeworld3.exe", "type": "Game" }
 
-# Honkai: Star Rail
-# https://hsr.hoyoverse.com/
+# Honkai: Star Rail https://hsr.hoyoverse.com/
 { "name": "StarRail.exe", "type": "Game" }
 
-# Horizon Zero Dawn
-# https://store.steampowered.com/app/1151640
+# Horizon Zero Dawn https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/
 { "name": "HorizonZeroDawn.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
