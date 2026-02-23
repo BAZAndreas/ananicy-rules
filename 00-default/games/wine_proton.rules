@@ -2166,7 +2166,7 @@
 { "name": "Medium.exe", "type": "Game" }
 { "name": "Medium-Win64-Shipping.exe", "type": "Game" }
 
-# The Outer Worlds https://store.steampowered.com/app/578650/The_Outer_Worlds/
+# https://store.steampowered.com/app/578650/The_Outer_Worlds/
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheOuterWorlds.exe", "type": "Game" }
 
