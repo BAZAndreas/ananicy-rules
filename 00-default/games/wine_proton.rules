@@ -2320,6 +2320,9 @@
 
 ### U ###
 
+# https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
+{ "name": "Ultimate Custom Night.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1229490/ULTRAKILL/
 { "name": "ULTRAKILL.exe", "type": "Game" }
 
@@ -2329,15 +2332,12 @@
 # https://store.steampowered.com/app/230290/Universe_Sandbox/
 { "name": "Universe", "type": "Game" }
 
-# Unreal Tournament 2004 https://steamcommunity.com/app/13230
-{ "name": "UT2004.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
-{ "name": "Ultimate Custom Night.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/470220/UNO/
 { "name": "UNO.exe", "type": "Game" }
 { "name": "UbisoftGameLauncher.exe", "type": "Game" }
+
+# Unreal Tournament 2004 https://store.steampowered.com/app/13230/Unreal_Tournament_2004_Editors_Choice_Edition/
+{ "name": "UT2004.exe", "type": "Game" }
 
 ### V ###
 
