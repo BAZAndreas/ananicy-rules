@@ -2029,18 +2029,35 @@
 # https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
 { "name": "isaac-ng.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/the-callisto-protocol
+{ "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TheCallistoProtocol.exe", "type": "Game" }
+{ "name": "TheCallistoProt", "type": "Game" }
+
+# The Chronicles of Riddick: Assault on Dark Athena
+{ "name": "DarkAthena.exe", "type": "Game" }
+
+# The Chronicles of Riddick: Escape from Butcher Bay (2004)
+{ "name": "SbzEngine.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1378290/The_Citadel/
 { "name": "the_citadel.exe", "type": "Game" }
 { "name": "the_citadel-Win64-Shipping.exe", "type": "Game" }
 
-# The Farmer Was Replaced https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
-{ "name": "TheFarmerWasReplaced.exe", "type": "Game" }
-
-# The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
-{ "name": "TheSpellBrigade.exe", "type": "Game" }
-
 # https://www.gog.com/en/game/the_colonists
 { "name": "TheColonists.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1281590/The_Dark_Pictures_Anthology_House_of_Ashes/
+{ "name": "HouseOfAshes.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/
+{ "name": "LittleHope.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/
+{ "name": "ManOfMedan.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/
+{ "name": "TheDevilInMe.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
 { "name": "Morrowind.exe", "type": "Game" }
@@ -2065,6 +2082,9 @@
 # https://store.steampowered.com/app/601430/The_Evil_Within_2/
 { "name": "TEW2.exe", "type": "Game" }
 
+# The Farmer Was Replaced https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
+{ "name": "TheFarmerWasReplaced.exe", "type": "Game" }
+
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
 { "name": "start_protected_game.exe", "type": "Game" }
@@ -2074,6 +2094,9 @@
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
 { "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
 { "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
+
+# https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/
+{ "name": "KZ.exe", "type": "Game" }
 
 # The Forest https://store.steampowered.com/agecheck/app/242760/The_Forest/
 { "name": "TheForest.exe", "type": "Game" }
@@ -2086,18 +2109,21 @@
 # https://store.steampowered.com/app/571260/THE_KING_OF_FIGHTERS_XIV_STEAM_EDITION
 { "name": "kofxiv.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/222440/THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH
-{ "name": "KingOfFighters2002UM.exe", "type": "Game" }
-{ "name": "KingOfFighters2002UM_x64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/222420/THE_KING_OF_FIGHTERS_98_ULTIMATE_MATCH_FINAL_EDITION
-{ "name": "KingOfFighters98UM.exe", "type": "Game" }
+# https://store.steampowered.com/app/1498570/THE_KING_OF_FIGHTERS_XV/
+{ "name": "KOFXV_Steam.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/702120/THE_KING_OF_FIGHTERS_97_GLOBAL_MATCH
 { "name": "KOF97.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1498570/THE_KING_OF_FIGHTERS_XV/
-{ "name": "KOFXV_Steam.exe", "type": "Game" }
+# https://store.steampowered.com/app/222420/THE_KING_OF_FIGHTERS_98_ULTIMATE_MATCH_FINAL_EDITION
+{ "name": "KingOfFighters98UM.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/222440/THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH
+{ "name": "KingOfFighters2002UM.exe", "type": "Game" }
+{ "name": "KingOfFighters2002UM_x64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/450390/The_Lab/
+{ "name": "TheLab.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/465840/THE_LAST_BLADE/
 { "name": "LastBlade.exe", "type": "Game" }
@@ -2114,18 +2140,19 @@
 { "name": "tlou-ii.exe", "type": "Game" }
 { "name": "tlou-ii-l.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/267530/The_LEGO_Movie__Videogame/
-{ "name": "LEGOEMMET.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/881320/The_LEGO_Movie_2_Videogame/
 { "name": "LEGO The LEGO Movie 2_DX11.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/267530/The_LEGO_Movie__Videogame/
+{ "name": "LEGOEMMET.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/640590/The_LEGO_NINJAGO_Movie_Video_Game/
 { "name": "LEGONINJAGO.exe", "type": "Game" }
 { "name": "LEGONINJAGO_DX11.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/
-{ "name": "KZ.exe", "type": "Game" }
+# https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344
+{ "name": "Moria-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Moria.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1773180/The_Matriarch/
 { "name": "TheMatriarch-Win64-Shipping.exe", "type": "Game" }
@@ -2150,43 +2177,16 @@
 # https://store.steampowered.com/app/24880/The_Saboteur/
 { "name": "Saboteur.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/835960/The_Talos_Principle_2/
-{ "name": "Talos2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Talos2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/450390/The_Lab/
-{ "name": "TheLab.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/
-{ "name": "ManOfMedan.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1281590/The_Dark_Pictures_Anthology_House_of_Ashes/
-{ "name": "HouseOfAshes.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/
-{ "name": "LittleHope.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/
-{ "name": "TheDevilInMe.exe", "type": "Game" }
-
-# The Chronicles of Riddick: Assault on Dark Athena
-{ "name": "DarkAthena.exe", "type": "Game" }
-
-# The Chronicles of Riddick: Escape from Butcher Bay (2004)
-{ "name": "SbzEngine.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344
-{ "name": "Moria-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Moria.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/the-callisto-protocol
-{ "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
-{ "name": "TheCallistoProtocol.exe", "type": "Game" }
-{ "name": "TheCallistoProt", "type": "Game" }
-
 # https://store.steampowered.com/app/750130/The_Sinking_City_Remastered/
 { "name": "TheSinkingCityRemastered.exe", "type": "Game" }
 { "name": "TSCGame-Win64-Shipping.exe", "type": "Game" }
+
+# The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
+{ "name": "TheSpellBrigade.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/835960/The_Talos_Principle_2/
+{ "name": "Talos2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Talos2.exe", "type": "Game" }
 
 ### T ###
 
