@@ -1474,6 +1474,12 @@
 { "name": "Octopath_Traveler-Win64-Shipping.exe", "type": "Game" }
 { "name": "Octopath_Traveler.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3659280/Off_The_Grid/
+{ "name": "G01Client-Win64-Shipping.exe", "type": "Game" }
+
+# Oh Deer https://store.steampowered.com/app/2708450/Oh_Deer
+{ "name" : "OhDeer.exe" ,"type" : "Game"}
+
 # https://store.steampowered.com/app/587620/Okami_HD/
 { "name": "okami.exe", "type": "Game" }
 
@@ -1496,13 +1502,6 @@
 
 # https://store.steampowered.com/app/457140/Oxygen_Not_Included/
 { "name": "OxygenNotIncluded.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3659280/Off_The_Grid/
-{ "name": "G01Client-Win64-Shipping.exe", "type": "Game" }
-
-# Oh Deer
-# https://store.steampowered.com/app/2708450/Oh_Deer
-{ "name" : "OhDeer.exe" ,"type" : "Game"}
 
 ### P ###
 
