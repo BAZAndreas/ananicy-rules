@@ -2341,8 +2341,8 @@
 
 ### V ###
 
-# V Rising https://store.steampowered.com/app/1604030/V_Rising/
-{ "name": "VRising.exe", "type": "Game" }
+# https://store.steampowered.com/app/801550/VAIL_Extraction/
+{ "name": "VAIL.exe", "type": "Game" }
 
 # Valheim https://store.steampowered.com/app/892970/Valheim/
 { "name": "Valheim.exe", "type": "Game" }
@@ -2352,9 +2352,6 @@
 
 # https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/
 { "name": "vampire.exe", "type": "Game" }
-
-# https://www.moddb.com/mods/vtmb-unofficial-patch
-{ "name": "Vampire.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/427290/Vampyr/
 { "name": "AVGame-Win64-Shipping.exe", "type": "Game" }
@@ -2372,17 +2369,20 @@
 # https://store.steampowered.com/app/1159690/Voidtrain/
 { "name": "VoidTrain.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/801550/VAIL_Extraction/
-{ "name": "VAIL.exe", "type": "Game" }
-
 # https://votv.dev/
 { "name": "VotV.exe", "type": "Game" }
 
-# VTOL VR https://store.steampowered.com/app/667970/VTOL_VR/
-{ "name": "VTOLVR.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/438100/VRChat/
 { "name": "VRChat.exe", "type": "Game" }
+
+# V Rising https://store.steampowered.com/app/1604030/V_Rising/
+{ "name": "VRising.exe", "type": "Game" }
+
+# https://www.moddb.com/mods/vtmb-unofficial-patch
+{ "name": "Vampire.exe", "type": "Game" }
+
+# VTOL VR https://store.steampowered.com/app/667970/VTOL_VR/
+{ "name": "VTOLVR.exe", "type": "Game" }
 
 ### W ###
 
