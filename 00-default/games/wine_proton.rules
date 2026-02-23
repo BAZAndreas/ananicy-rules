@@ -2201,12 +2201,10 @@
 { "name": "teardown.exe", "type": "Game" }
 { "name": "teardown_modtest.exe", "type": "Game" }
 
-# Tomb Raider Game of the Year
-# https://store.steampowered.com/app/203160/Tomb_Raider_Game_of_the_Year/
+# Tomb Raider Game of the Year https://store.steampowered.com/app/203160/Tomb_Raider_Game_of_the_Year/
 { "name": "TombRaider.exe", "type": "Game" }
 
-# Temtem: Swarm
-# https://store.steampowered.com/app/2510960
+# Temtem: Swarm https://store.steampowered.com/app/2510960/Temtem_Swarm/
 { "name": "TemtemSwarm.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
@@ -2304,8 +2302,7 @@
 # https://store.steampowered.com/app/2225070/Trackmania/
 { "name": "Trackmania.exe", "type": "Game" }
 
-# TrackMania Nations Forever
-# https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/
+# TrackMania Nations Forever https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/
 { "name": "TmForever.exe", "type": "Game" }
 { "name": "TmForeverLauncher.exe", "type": "Game" }
 
@@ -2318,7 +2315,7 @@
 # https://store.steampowered.com/app/1343240/Thymesia/
 { "name": "PlagueProject.exe", "type": "Game" }
 
-# Tabletop_Simulator (proton) https://store.steampowered.com/app/286160/Tabletop_Simulator/
+# Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.exe", "type": "Game" }
 
 # https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands
